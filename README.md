@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mdshamsh9973
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m md shamsh Qumar anwer
+- 👀 I’m interested in ai. Programing.
+- 🌱 I’m currently learning c+
+- 💞️ I’m looking to collaborate on meta
+- 📫 How to reach me ?
 
 <!---
 mdshamsh9973/mdshamsh9973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
